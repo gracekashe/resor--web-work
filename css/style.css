@@ -13,3 +13,9 @@ h2 {
   color: black;
   font-style: oblique;
 }
+
+p {
+  background-color: grey;
+  text-align: center;
+  font-style: oblique;
+}
